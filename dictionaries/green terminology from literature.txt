@@ -1,0 +1,131 @@
+Effective feedback	1.1
+Timely feedback	1.1
+prompt feedback	1.1
+Clear feedback	1.1
+face to face feedback	1.1
+in person feedback	1.1
+professional role model	1.1
+positive role model	1.1
+expertise in practice area	1.1
+expertise in field	1.1
+knowledgeable 	1.1
+knowledgable about practice rea	1.1
+Hands on learning	1.1
+Active learning	1.1
+practical application	1.1
+safe to learn	1.1
+positive	1.1
+supportive	1.1
+enthusiastic	1.1
+enthusiasm	1.1
+welcoming	1.1
+welcome	1.1
+helpful	1.1
+got to know me	1.1
+got to know me personally	1.1
+got to know me as a person	1.1
+cared about me as a person	1.1
+asked about my learning goals	1.1
+asked about my goals	1.1
+asked my career goals	1.1
+asked about my career interests	1.1
+asked bout my interests	1.1
+effective teacher	1.1
+effective teaching	1.1
+effective precepting	1.1
+career mentorship	1.1
+career advice	1.1
+mentor	1.1
+enthusaiastic preceptor	1
+enthusiastic teacher	1
+enthusasitc about teaching	1
+enthusiasm for teaching	1
+enthusiasm for precepting	1
+interested in teaching	1
+interested in precepting	1
+approachable	1
+relatable	1
+empathetic	1
+has emptahy	1
+encouraging	1
+encourages active participation	1
+encourages discussion	1
+has discussions	1
+has topic discussions	1
+encourages problem solving	1
+provides clear expectations	1
+provides clear communication	1
+ clear expectations	1
+clear communication	1
+effective communication	1
+prompt communication	1
+well organized	1
+structured 	1
+well structured	1
+structured schedule	1
+organized schedule	1
+structured calendar	1
+organized calendar	1
+spends time with me	1
+spends time with students	1
+makes time for me	1
+makes time for students	1
+flexible	1
+adaptable	1
+accomodates	1
+great working environment	1
+safe learning environment	1
+variety of learning experiences	1
+variety of experiences	1
+variety of rotation activities	1
+variety of activities	1
+trusted me	1
+trusted me with responsibilities	1
+facilitates independence	1
+promotes independence	1
+promotes autonomy	1
+provides independence	1
+autonomy	1
+self-directed learning	1
+independence	1
+invested in student learning	1
+invested in student success	1
+invested in my learning	1
+invested in my success	1
+goes out of his way	1
+goes out of her way	1
+goes out of their way	1
+answers questions	1
+has discussions	1
+asks good questions	1
+teaches me	1
+teaches students	1
+asks for my input	1
+asks for suggestions	1
+ask for students input	1
+positive attitude	1
+works well with team	1
+works well with colleagues	1
+advocates for patients	1
+advocates for profession	1
+advocates for pharmacy	1
+enthusasitc about profession	1
+positive about profession	1
+team members know student's role	1
+team members know my role	1
+appropriately challenges	1
+pushed me out of comfort zone	1
+creates interprofessional opportunities	1
+interprofessional opportunities	1
+facilitates interprofessional opportunities	1
+interactions with other healthcare professionals	1
+interdisciplinary	1
+multidsciplinary	1
+exposure to diverse populations	1
+exposure to culturally diverse populations	1
+exposure to other cultures	1
+work with diverse 	1
+work with culturally	1
+work with other cultures	1
+work with residents	1
+work with students	1

@@ -1,36 +1,56 @@
-absolute honor	1.1
-amazing	1.1
-awesome	1.1
-best	1.1
-deserves a preceptor award	1.1
+absolute honor	1.25
+amazing	1.25
+awesome	1.25
+best	1.25
+blown away	1.25
+cannot thank my preceptors enough	1.25
+deserves a preceptor award	1.25
+did everything in their power to make this experience a good one	1.25
+exceeded all expectations	1.25
+exceeded my expectations	1.25
+excellent	1.25
+exceptional preceptor	1.25
+executed and handled extremely well	1.25
+fantastic	1.25
+highly recommend	1.25
+i couldn't have asked for a better team to work with	1.25
+i don't know what could have made this better	1.25
+i love	1.25
+i rate this site preceptor and experience as a 10	1.25
+i was thrilled	1.25
+i would recommend all students to have this	1.25
+incredible	1.25
+love this immersion	1.25
+loved	1.25
+overall i feel as though my expectations for this rotation were far exceeded	1.25
+perfect	1.25
+phenomenal	1.25
+spectacular	1.25
+this rotation shines	1.25
+very high quality	1.25
+wonderful	1.25
+always available	1.1
+always learning and enjoying	1.1
+always made me feel heard	1.1
+always professional	1.1
+always something to see	1.1
+always take the time	1.1
+always there for me	1.1
+always willing to meet with me	1.1
+big thank-you	1.1
+completely hit that benchmark	1.1
+cutting edge	1.1
 enthusiastic	1.1
-exceeded all expectations	1.1
-exceeded my expectations	1.1
-excellent	1.1
-exceptional preceptor	1.1
-executed and handled extremely well	1.1
-fantastic	1.1
+exemplified	1.1
 great	1.1
 greatly	1.1
-highly recommend	1.1
-i couldn't have asked for a better team to work with	1.1
-i don't know what could have made this better	1.1
-i love	1.1
-i was thrilled	1.1
-incredible	1.1
 it was such a fun and educational rotation	1.1
-love this immersion	1.1
-loved	1.1
-overall i feel as though my expectations for this rotation were far exceeded	1.1
-perfect	1.1
-phenomenal	1.1
+nothing that could have made it a better experience	1.1
+one of the most influential ones i have had	1.1
 really enjoying this rotation	1.1
-spectacular	1.1
 strong	1.1
-this rotation shines	1.1
 valuable	1.1
-very high quality	1.1
-wonderful	1.1
+wouldn't change	1.1
 ability to lead patient visit	1
 able to focus and learn	1
 able to learn	1
@@ -47,8 +67,6 @@ active engagement/ eagerness	1
 active learning	1
 adaptable	1
 adapted well	1
-administer	1
-administering	1
 admired	1
 advance patient care and the profession	1
 all aspects	1
@@ -56,16 +74,6 @@ all over again	1
 allow my skills to flourish	1
 allowed	1
 allowing me	1
-allows students to use skill	1
-allows you to learn	1
-always available	1
-always learning and enjoying	1
-always made me feel heard	1
-always professional	1
-always something to see	1
-always take the time	1
-always there for me	1
-always willing to meet with me	1
 ample	1
 an eye opening experience	1
 answer my question	1
@@ -76,7 +84,6 @@ appreciation	1
 appreciative	1
 approachable	1
 appropriate resources	1
-appropriate to learn about	1
 appropriately challenged	1
 areas of interest	1
 as good of an experience	1
@@ -85,19 +92,15 @@ autonomously	1
 autonomy	1
 balance	1
 be a part of the decision making process	1
-became more comfortable	1
-become more efficient	1
 beneficial	1
 better learner	1
 better pharmacist	1
+better than others i have had	1
 better understanding	1
-big thank-you	1
-blown away	1
 break the concept down	1
 broader picture of	1
 build a solid foundation of skill	1
 calm and collected	1
-cannot thank my preceptors enough	1
 cared about	1
 cared for her students	1
 career advice	1
@@ -105,8 +108,8 @@ cater this rotation to what i wanted to learn/see	1
 challenge ourselves	1
 challenged my knowledge and communication skills	1
 clear expectations	1
+clear schedule	1
 clinical experience	1
-clinical knowledge	1
 closeness	1
 collaborate	1
 collaborative	1
@@ -118,7 +121,6 @@ committed	1
 communication of expectations	1
 communication was so open	1
 complete perspective	1
-completely hit that benchmark	1
 comprehensive	1
 conduct clinic visits	1
 conduct the visits ourselves	1
@@ -137,7 +139,6 @@ countless opportunities	1
 critically think	1
 cultural	1
 customize	1
-cutting edge	1
 debrief	1
 dedicated	1
 dedication	1
@@ -145,11 +146,6 @@ desire to teach	1
 detailed	1
 develop relationships	1
 developing culture sensitivity	1
-did everything in their power to make this experience a good one	1
-did get knowledge and information	1
-different areas	1
-different backgrounds	1
-different settings/roles	1
 dig deep	1
 dig deeper	1
 direct patient care	1
@@ -196,7 +192,9 @@ family oriented	1
 favorite rotation	1
 feedback related to my work was direct and specific	1
 feel comfortable	1
+feel included	1
 feel like a part of the team	1
+feel safe	1
 feeling increasingly comfortable	1
 felt comfortable	1
 felt like i was a part of the team	1
@@ -208,6 +206,7 @@ flexibility	1
 flexible	1
 fosters curiosity	1
 freedom	1
+frequent meetings and topic discussion	1
 friendly	1
 fulfilled and balanced	1
 further my future	1
@@ -228,7 +227,6 @@ good for me	1
 good introduction	1
 good look	1
 good overall	1
-good patient teacher	1
 good site	1
 good to be able to	1
 good understanding	1
@@ -245,6 +243,7 @@ hands-on	1
 happy	1
 has broadened my knowledge	1
 has improved my clinical thinking skills	1
+having input	1
 help me progress	1
 helped improve	1
 helped me	1
@@ -263,11 +262,9 @@ i don't think much needs to be changed	1
 i feel more comfortable	1
 i like being able to	1
 i liked being able to	1
-i rate this site preceptor and experience as a 10	1
 i want to thank	1
 i was also fortunate to have had	1
 i was excited	1
-i would recommend all students to have this	1
 impact pharmacists	1
 impactful	1
 impromptu discussions	1
@@ -333,6 +330,7 @@ lots of patient interactions	1
 lots to do	1
 made me feel at home	1
 made the adjustment to a new practice setting smooth	1
+make recommendations	1
 make sure we understood	1
 make the experience 'my own	1
 makes time	1
@@ -359,11 +357,9 @@ no negative aspects	1
 not much more that i could have expected from this rotation	1
 not too overwhelming	1
 nothing in particular stands out to me as needing to change	1
-nothing that could have made it a better experience	1
 nothing that i think would have made this a better experience	1
 one i will not forget	1
 one of a kind	1
-one of the most influential ones i have had	1
 open to sharing their responsibilities	1
 opened my eyes	1
 opportunities	1
@@ -375,6 +371,7 @@ participate	1
 passion	1
 passionate	1
 patience	1
+patient teacher	1
 pearls	1
 personable	1
 pharmacists were readily available	1
@@ -413,6 +410,7 @@ receptive to feedback	1
 receptive with feedback	1
 recognize where students are	1
 recommend this	1
+reflecting on things	1
 refreshing	1
 respect	1
 respected	1
@@ -423,7 +421,9 @@ robust	1
 rotating pharmacists	1
 sad to leave	1
 see so many sides	1
+self-directed	1
 set aside time	1
+set schedule	1
 sets the bar high	1
 skilled preceptor	1
 so many areas of pharmacy	1
@@ -450,7 +450,6 @@ tailored the experience	1
 tailored the rotation	1
 tailoring my rotation experience to my post-graduate career goals	1
 take initiative	1
-talent for explaining new concepts	1
 taught me	1
 teach me	1
 teaching moments	1
@@ -478,7 +477,6 @@ understanding social determinants	1
 unique	1
 useful	1
 utilize the pharmacy student as a resource	1
-vaccinations and patient counseling	1
 value	1
 valued	1
 varied experience	1
@@ -488,6 +486,7 @@ very important	1
 very open to teaching students	1
 very positive	1
 wants his students to learn	1
+was available	1
 weekly feedback	1
 welcome	1
 welcomed	1
@@ -511,25 +510,30 @@ work with dental students	1
 worked very well	1
 working with residents and medical student	1
 workload was manageable	1
-wouldn't change	1
 wow	1
+administer	0.8
+administering	0.8
+allows students to use skill	0.8
+allows you to learn	0.8
 application	0.8
 applying	0.8
-better than others i have had	0.8
-clear schedule	0.8
+appropriate to learn about	0.8
+became more comfortable	0.8
+become more efficient	0.8
+clinical knowledge	0.8
+did get knowledge and information	0.8
+different areas	0.8
+different backgrounds	0.8
+different settings/roles	0.8
 discussing	0.8
-exemplified	0.8
 got to	0.8
-level of independence	0.8
 making sure	0.8
 my experience	0.8
 no negative feedback	0.8
 no real ""modifiable"" complaints	0.8
 presentation skill	0.8
 presentation skills	0.8
-reflecting on things	0.8
-self-directed	0.8
-set schedule	0.8
+vaccinations and patient counseling	0.8
 various	0.8
 varying job	0.8
 able to contribute	0
@@ -584,6 +588,7 @@ appreciated the early feedback	0
 appreciated the effort	0
 appreciated their help and support	0
 asking and answering questions	0
+asking questions	0
 assigned projects have been very informative and helpful	0
 aware	0
 awesome learning experience	0
@@ -596,6 +601,7 @@ best pharmacy role-model	0
 best preceptors and teachers	0
 best strength	0
 best was truly made out of this rotation	0
+better clinical decision maker	0
 beyond excellent	0
 biggest strength of	0
 broaden my experience	0
@@ -733,16 +739,13 @@ fantastic rotation site lots of opportunities	0
 fantastic way to learn and practice	0
 feedback	0
 feedback was detailed and prompt	0
-feel included	0
 feel more comfortable	0
-feel safe	0
 feel safe and eager to learn	0
 feel significantly more confident	0
 felt challenge	0
 felt like a valuable member	0
 felt supported	0
 felt very welcome	0
-frequent meetings and topic discussion	0
 friendly knowledgeable	0
 friendly laid back	0
 friendly staff	0
@@ -769,6 +772,7 @@ giving you the opportunity	0
 good diversity	0
 good diversity of experience	0
 good learning experience	0
+good patient teacher	0
 got to do hands on practice	0
 got to experience	0
 got to experience a lot	0
@@ -848,7 +852,6 @@ have a lot of admiration	0
 have been able to learn	0
 have loved	0
 have really enjoyed	0
-having input	0
 he did an incredible job	0
 he did an incredible job no one else did	0
 health care workers	0
@@ -1030,6 +1033,7 @@ learned the most	0
 learning opportunities	0
 learning was valued	0
 let me participate	0
+level of independence	0
 like a valuable member of our team	0
 lot more confident	0
 lot of autonomy	0
@@ -1056,7 +1060,6 @@ made this rotation enjoyable	0
 made us feel comfortable	0
 make meaningful care recommendations	0
 make meaningful intervention	0
-make recommendations	0
 make this site really interesting	0
 making this experience so fun and enjoyable	0
 many different areas	0
@@ -1122,10 +1125,12 @@ opportunity for growth	0
 opportunity to practice	0
 opportunity to see a wide variety	0
 opportunity to work with different	0
+optimal	0
 organization	0
 organized	0
 other members of the healthcare team	0
 other professions	0
+outside of my comfort zone	0
 overall great experience	0
 overall i had a great experience	0
 overall i had a really great time	0
@@ -1165,6 +1170,7 @@ practice	0
 practice administering vaccines	0
 practice presentation skill	0
 practice was very useful	0
+practice what you've learned	0
 practice your presentation skill	0
 preceptor did a great job	0
 preceptor is very nice and a good patient teacher	0
@@ -1260,6 +1266,7 @@ tailor the month to my interests	0
 tailored the experience toward	0
 tailored the rotation to match my interest	0
 take the time to teach me	0
+talent for explaining new concepts	0
 taught me a lot	0
 taught me so much	0
 team	0
@@ -1385,7 +1392,6 @@ very welcoming site	0
 was able to build meaningful relationships	0
 was amazing	0
 was appropriately challenged	0
-was available	0
 was awesome	0
 was dedicated to teaching	0
 was extremely knowledgable	0

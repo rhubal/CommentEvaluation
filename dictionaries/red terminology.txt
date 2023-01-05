@@ -9,7 +9,6 @@ extremely difficult	1.25
 extremely discouraging	1.25
 extremely overworked and understaffed	1.25
 extremely poor	1.25
-got reprimanded	1.25
 got so bad	1.25
 had significant anxiety	1.25
 harshly criticize us	1.25
@@ -18,6 +17,7 @@ he never came in	1.25
 highly disappointed	1.25
 hold no interest in working which students	1.25
 hostile environment	1.25
+i was being exploited	1.25
 inappropriate	1.25
 just terrible to me	1.25
 lack of accountability	1.25
@@ -32,15 +32,41 @@ no interest in getting to know the students	1.25
 preyed upon	1.25
 racial comments	1.25
 racially charged ringtone	1.25
+recommend the school send fewer students	1.25
 rude	1.25
 stressful experience	1.25
 unprofessional	1.25
 unsafe	1.25
 waste of time	1.25
+bad experiences definitely outweighed the good	1.1
+detrimental to learning	1.1
+disrespectful	1.1
+do not openly offer to teach	1.1
+everything would be dumped on me	1.1
+feel as though i am doing nothing	1.1
+feel like you are wasting time	1.1
+felt overwhelmed by workload	1.1
+felt very useless	1.1
+forgotten about the student	1.1
+got reprimanded	1.1
+i felt that i was in the way	1.1
+i had so many responsibilities that i could barely handle	1.1
+large portion of my time was spent shadowing	1.1
+made very few efforts to communicate	1.1
+may be stressful not having a routine or schedule	1.1
+overall negative	1.1
+overwhelming	1.1
+so absent	1.1
+some just pretended you were not there	1.1
+speaking badly about	1.1
+students are useless	1.1
+taken advantage of	1.1
+technicians had issues with teaching me	1.1
+too independent	1.1
+we were ignored	1.1
+without much instruction or accountability	1.1
 a pain	1
-additional conversation	1
 apathetic	1
-bad experiences definitely outweighed the good	1
 better communication	1
 better distribution of work	1
 better learning experience	1
@@ -59,7 +85,6 @@ could have had a better experience	1
 could have made this	1
 could made it a better experience	1
 could not focus	1
-detrimental to learning	1
 did not appreciate this	1
 did not have a lot of opportunities	1
 did not learn as much as i could have	1
@@ -75,22 +100,14 @@ dirty	1
 disappointing	1
 disappointment	1
 disheartened	1
-disrespectful	1
-do not openly offer to teach	1
 doing busy work	1
 downside	1
-everything would be dumped on me	1
 expectations for the handout changed	1
 expected to be challenged and learn a lot more	1
 expected to know	1
 express no interests in getting to know the students	1
 fake science	1
-feel as though i am doing nothing	1
-feel like you are wasting time	1
 felt like i was always trying to beat the clock	1
-felt overwhelmed by workload	1
-felt very useless	1
-forgotten about the student	1
 free labor	1
 frustrated	1
 frustrating	1
@@ -111,16 +128,10 @@ i didn't have very many opportunities to	1
 i didn't really feel like i learned much about pharmacy	1
 i didn't speak with any pharmacists	1
 i feel that i could have learned more if there were	1
-i felt that i was in the way	1
 i found it harder to	1
-i had so many responsibilities that i could barely handle	1
 i just wish there was more	1
-i need to improve	1
-i needed to improve myself	1
-i was being exploited	1
 i was given busy work	1
 i was not updated on	1
-i wasn't meeting expectations	1
 i wish i could've had more of	1
 i wish i had	1
 i would be kicked out	1
@@ -131,7 +142,6 @@ if every pharmacist i was shadowing was expecting me not all pharmacists knew i 
 if i could have	1
 if i were able to	1
 if they also gave the students more opportunities	1
-i'm not sure what	1
 improve the experience	1
 incorporate more time for teaching	1
 interact with my preceptor more	1
@@ -142,10 +152,10 @@ it was hard to do the things you normally do	1
 it was not explicitly stated	1
 lack of dedicated space	1
 lack of opportunity	1
+lack of orientation	1
 lack of structure made this rotation not ideal	1
 lack of time	1
 lacking	1
-large portion of my time was spent shadowing	1
 last minute changes	1
 learning was not always a priority	1
 left in the dark	1
@@ -165,10 +175,8 @@ lot of downtime	1
 lot to handle	1
 made it hard to	1
 made it tough	1
-made very few efforts to communicate	1
 made-up information	1
 make us do more of the grunt work	1
-may be stressful not having a routine or schedule	1
 may have been helpful to	1
 meeting them appropriately rather than	1
 missing out	1
@@ -226,8 +234,6 @@ often times difficult	1
 one of the challenges i faced at this rotation was	1
 opportunities were not available	1
 opportunities were somewhat few and far between	1
-overall negative	1
-overwhelming	1
 physically difficult	1
 poorly kept	1
 preceptor being extremely busy	1
@@ -237,44 +243,34 @@ progress on each activity felt slow	1
 provide better direction	1
 purely negative feedback	1
 rarely gave me feedback	1
-recommend the school send fewer students	1
-regarding the future of pharmacy	1
 repetitive	1
 room for improvement	1
 rushed	1
 schedule change	1
-setting realistic rotation expectations	1
 should have been	1
 sitting for hours	1
 slightly self conscious	1
-so absent	1
-some just pretended you were not there	1
 some shadowing experiences were difficult	1
 sometimes was difficult	1
 sooner communication	1
-speaking badly about	1
-spend more time with me	1
 spent in silence	1
 spent those hours alone	1
 spreading out	1
 staffing shortages	1
 stayed up all night	1
 struggled to apply the knowledge	1
-students are useless	1
 super boring	1
 supposed to be doing	1
 take away from the learning	1
-taken advantage of	1
 talk more face to face	1
-technicians had issues with teaching me	1
 tend to get really slow	1
 there were some times where i felt as though	1
 they did not follow through	1
 this rotation was complex	1
 this was unfortunate	1
 too busy	1
-too independent	1
 too many responsibilities	1
+too many students	1
 tough work-life balance	1
 tried to make you do their work for them	1
 unable to be of any specific help	1
@@ -293,11 +289,9 @@ was little feedback	1
 was not very consistent	1
 wasn't able to	1
 wasn't abundantly clear	1
-we were ignored	1
 wish it had been	1
 without a break	1
 without explaining	1
-without much instruction or accountability	1
 worked as unpaid pharmacy technicians	1
 would also be really helpful	1
 would be beneficial	1
@@ -316,31 +310,27 @@ would usually not be able to	1
 would've been a better experience for me	1
 would've loved to	1
 you could consider	1
-busy schedule	0.8
 could also be a good learning addition	0.8
 could be cool to	0.8
-did not change	0.8
 difficult to gauge improvements/progression	0.8
 expect to get a little more	0.8
 few more opportunities to provide patient medication counseling	0.8
 further instructions	0.8
-gained more	0.8
 hard to follow sometimes	0.8
 hard to tell	0.8
-high expectation	0.8
 it would be advantageous	0.8
 lull	0.8
-pros and cons	0.8
-very fast-paced rotation	0.8
 a better learning experience if it related more to pharmacy	0
 a little rushed	0
 absence of more frequent feedback	0
 additional	0
+additional conversation	0
 alone	0
 being more included	0
 better	0
 better communication from the preceptor team	0
 better communication of expectations	0
+busy schedule	0
 challenged every day i was there	0
 challenged me	0
 challenges every day	0
@@ -355,6 +345,7 @@ could have been much better	0
 deeper	0
 definitely unprofessional	0
 did not	0
+did not change	0
 didn't have time to	0
 difficult	0
 disappointment with the overall experience	0
@@ -368,20 +359,25 @@ felt incredibly unsafe	0
 felt it was disrespectful	0
 felt like i was missing out	0
 few concerns	0
+gained more	0
 got busy	0
 had too many responsibilities	0
 has room for improvement	0
 have my expectations let down	0
+high expectation	0
 i am not quiet sure what i am supposed to be doing	0
 I did not have a lot of opportunities for 1:1 learning	0
 i felt overwhelmed by workload	0
 i felt very useless	0
 i find it inappropriate and unfair that i had to sit in the hospital with nothing to do/lear	0
 i found very frustrating	0
+i need to improve	0
+i needed to improve myself	0
 i think it would have been better with	0
 i was confused on what to do	0
 i was not welcomed	0
 i wasn't able to see	0
+i wasn't meeting expectations	0
 i wish	0
 i wish i had was some other students to interact with	0
 i would have enjoyed	0
@@ -389,6 +385,7 @@ i would have liked	0
 i would have loved	0
 i would have loved to have	0
 i would like to learn more about	0
+i'm not sure what	0
 implied	0
 inappropriate and unfair	0
 intense	0
@@ -429,16 +426,20 @@ one downside	0
 opportunities were limited	0
 overall very stressful experience	0
 professionalism	0
+pros and cons	0
 questions	0
 received no training	0
+regarding the future of pharmacy	0
 rotation schedule was pretty draining	0
 rude and treated us poorly	0
+setting realistic rotation expectations	0
 slow	0
 so busy	0
 so much better	0
 so that i would be more comfortable	0
 somewhat frustrating	0
 speaking badly about precepting students and residents	0
+spend more time with me	0
 staff members were rude and treated us poorly	0
 still confused	0
 structure	0
@@ -449,7 +450,6 @@ that would have helped	0
 there should have been some opportunity	0
 things just felt rushed	0
 this rotation was disappointing	0
-too many students	0
 unaware of some of my general expectations	0
 unfortunately we didn't have the time to	0
 unintentional negative environment	0
@@ -461,6 +461,7 @@ very busy	0
 very challenging	0
 very confused	0
 very difficult to manage	0
+very fast-paced rotation	0
 very stressful experience	0
 very unprofessional	0
 very unprofessional and uncalled for	0

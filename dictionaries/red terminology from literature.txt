@@ -1,0 +1,68 @@
+Unavailable 	1.1
+Not available	1.1
+no time for me	1.1
+no time to teach	1.1
+no time to precept	1.1
+no time for student	1.1
+doesn't take time	1.1
+no communication	1.1
+lack of communication	1.1
+poor communication	1.1
+ineffective communication	1.1
+delayed communication	1.1
+not invested in my learning	1.1
+not invested in student learning	1.1
+not interested in me	1.1
+not intersted in my learning	1.1
+not interested in student learning	1.1
+poor advocate for patients	1.1
+poor advocate for patient care	1.1
+poor advocate for profession	1.1
+poor advocate for pharmacy	1.1
+bad attitude about pharmacy	1.1
+poor attitude about pharmacy	1.1
+does not ask about goals	1.1
+does not ask about career goals	1.1
+does not ask about interests	1.1
+does not tailor rotation	1.1
+does not ask about what we want	1.1
+unclear expecatations	1.1
+different expectations	1.1
+inconsistent	1.1
+inconsistent expectations	1.1
+lack of clarity	1.1
+lack of expectations	1.1
+not receptive to feedback	1.1
+does not ask for feedback	1.1
+does not incorporate feedback	1.1
+does not give feedback	1.1
+lack of feedback	1.1
+little feedback	1.1
+gives busy work	1.1
+insenstivie	1.1
+not adaptable	1.1
+not culturally aware	1.1
+not culturally sensitive	1.1
+biased	1.1
+does not follow up	1.1
+does not have discussions	1.1
+is not genuine	1.1
+ingenuine	1.1
+does not challenge student	1.1
+does not challenge me	1.1
+does not challenge appropriately	1.1
+puts too much on me	1.1
+too repetitive	1.1
+work does not have value	1.1
+does not hold you accountable	1.1
+does not hold student accountable	1.1
+does not have a voice	1.1
+does not explain value	1.1
+does not explain purpose	1.1
+doesn't feel like belong	1.1
+burden	1.1
+put aside	1.1
+too much shadowing	1.1
+inappropriate	1.1
+not showing up	1.1
+does not show up	1.1
