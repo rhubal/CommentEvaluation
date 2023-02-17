@@ -29,6 +29,8 @@ spectacular	1.25
 this rotation shines	1.25
 very high quality	1.25
 wonderful	1.25
+accepted by the whole team	1.1
+advance patient care and the profession	1.1
 always available	1.1
 always learning and enjoying	1.1
 always made me feel heard	1.1
@@ -42,9 +44,11 @@ completely hit that benchmark	1.1
 cutting edge	1.1
 enthusiastic	1.1
 exemplified	1.1
+favorite rotation	1.1
 great	1.1
 greatly	1.1
 it was such a fun and educational rotation	1.1
+must-have experience	1.1
 nothing that could have made it a better experience	1.1
 one of the most influential ones i have had	1.1
 really enjoying this rotation	1.1
@@ -59,7 +63,6 @@ able to really immerse	1
 able to see	1
 able to take a lot away	1
 able to work with	1
-accepted by the whole team	1
 accessible	1
 accommodated	1
 accommodating	1
@@ -68,7 +71,6 @@ active learning	1
 adaptable	1
 adapted well	1
 admired	1
-advance patient care and the profession	1
 all aspects	1
 all over again	1
 allow my skills to flourish	1
@@ -109,7 +111,6 @@ challenge ourselves	1
 challenged my knowledge and communication skills	1
 clear expectations	1
 clear schedule	1
-clinical experience	1
 closeness	1
 collaborate	1
 collaborative	1
@@ -189,7 +190,6 @@ facilitate different learning	1
 facilitate learning	1
 facilitated	1
 family oriented	1
-favorite rotation	1
 feedback related to my work was direct and specific	1
 feel comfortable	1
 feel included	1
@@ -345,7 +345,6 @@ more than willing to	1
 motivated me	1
 multidisciplinary	1
 multitude of backgrounds	1
-must-have experience	1
 my favorite	1
 my learning	1
 my preceptor was extremely perceptive of	1
@@ -520,6 +519,7 @@ applying	0.8
 appropriate to learn about	0.8
 became more comfortable	0.8
 become more efficient	0.8
+clinical experience	0.8
 clinical knowledge	0.8
 did get knowledge and information	0.8
 different areas	0.8

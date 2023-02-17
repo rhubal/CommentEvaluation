@@ -35,6 +35,7 @@ racially charged ringtone	1.25
 recommend the school send fewer students	1.25
 rude	1.25
 stressful experience	1.25
+students are useless	1.25
 unprofessional	1.25
 unsafe	1.25
 waste of time	1.25
@@ -43,6 +44,7 @@ detrimental to learning	1.1
 disrespectful	1.1
 do not openly offer to teach	1.1
 everything would be dumped on me	1.1
+express no interests in getting to know the students	1.1
 feel as though i am doing nothing	1.1
 feel like you are wasting time	1.1
 felt overwhelmed by workload	1.1
@@ -54,12 +56,12 @@ i had so many responsibilities that i could barely handle	1.1
 large portion of my time was spent shadowing	1.1
 made very few efforts to communicate	1.1
 may be stressful not having a routine or schedule	1.1
+more cultural and racial awareness	1.1
 overall negative	1.1
 overwhelming	1.1
 so absent	1.1
 some just pretended you were not there	1.1
 speaking badly about	1.1
-students are useless	1.1
 taken advantage of	1.1
 technicians had issues with teaching me	1.1
 too independent	1.1
@@ -70,8 +72,6 @@ apathetic	1
 better communication	1
 better distribution of work	1
 better learning experience	1
-bit annoying	1
-bit of a disconnect	1
 changed her mind regarding expectations	1
 chaotic	1
 checking in with my preceptor more frequently	1
@@ -105,7 +105,6 @@ downside	1
 expectations for the handout changed	1
 expected to be challenged and learn a lot more	1
 expected to know	1
-express no interests in getting to know the students	1
 fake science	1
 felt like i was always trying to beat the clock	1
 free labor	1
@@ -183,10 +182,10 @@ missing out	1
 more accountability	1
 more check ins	1
 more clear direction	1
+more clear expectations	1
 more clearly defined expectation	1
 more comfortable	1
 more communication and guidance	1
-more cultural and racial awareness	1
 more depth	1
 more direction and follow-through	1
 more engagement	1
@@ -224,7 +223,6 @@ not enough time	1
 not had the opportunity	1
 not having enough time	1
 not many learning moments	1
-not offered ahec housing	1
 not satisfied	1
 not very helpful	1
 not very personable	1
@@ -264,7 +262,6 @@ supposed to be doing	1
 take away from the learning	1
 talk more face to face	1
 tend to get really slow	1
-there were some times where i felt as though	1
 they did not follow through	1
 this rotation was complex	1
 this was unfortunate	1
@@ -310,6 +307,8 @@ would usually not be able to	1
 would've been a better experience for me	1
 would've loved to	1
 you could consider	1
+bit annoying	0.8
+bit of a disconnect	0.8
 could also be a good learning addition	0.8
 could be cool to	0.8
 difficult to gauge improvements/progression	0.8
@@ -419,6 +418,7 @@ never	0
 no opportunities for direct patient care	0
 not	0
 not allowed to explore all of the opportunities	0
+not offered ahec housing	0
 not satisfied with my experience	0
 not welcomed by the team	0
 often really unprofessional and offensive	0
@@ -448,6 +448,7 @@ suggestion	0
 super busy	0
 that would have helped	0
 there should have been some opportunity	0
+there were some times where i felt as though	0
 things just felt rushed	0
 this rotation was disappointing	0
 unaware of some of my general expectations	0
