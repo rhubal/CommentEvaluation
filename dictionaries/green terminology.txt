@@ -42,6 +42,7 @@ always willing to meet with me	1.1
 big thank-you	1.1
 completely hit that benchmark	1.1
 cutting edge	1.1
+enriching	1.1
 enthusiastic	1.1
 exemplified	1.1
 favorite rotation	1.1
@@ -536,6 +537,7 @@ presentation skills	0.8
 vaccinations and patient counseling	0.8
 various	0.8
 varying job	0.8
+mostly a positive	0.4
 able to contribute	0
 able to gain experience	0
 able to gain some clinical experience	0

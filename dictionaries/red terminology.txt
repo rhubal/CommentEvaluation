@@ -1,10 +1,12 @@
 being abused	1.25
 blame us for mistakes	1.25
+burnout	1.25
 concerns regarding professionalism	1.25
 derogatory comments	1.25
 did not even acknowledge our existence	1.25
 dread	1.25
 dreading	1.25
+egregious	1.25
 extremely difficult	1.25
 extremely discouraging	1.25
 extremely overworked and understaffed	1.25
@@ -17,6 +19,7 @@ he never came in	1.25
 highly disappointed	1.25
 hold no interest in working which students	1.25
 hostile environment	1.25
+hostile member	1.25
 i was being exploited	1.25
 inappropriate	1.25
 just terrible to me	1.25
@@ -34,6 +37,7 @@ racial comments	1.25
 racially charged ringtone	1.25
 recommend the school send fewer students	1.25
 rude	1.25
+stressful environment	1.25
 stressful experience	1.25
 students are useless	1.25
 unprofessional	1.25
@@ -52,6 +56,7 @@ felt very useless	1.1
 forgotten about the student	1.1
 got reprimanded	1.1
 i felt that i was in the way	1.1
+i felt useless	1.1
 i had so many responsibilities that i could barely handle	1.1
 large portion of my time was spent shadowing	1.1
 made very few efforts to communicate	1.1
@@ -79,6 +84,7 @@ confused	1
 confusing	1
 confusion	1
 consistent problem	1
+could be beneficial	1
 could be spent doing some other learning opportunities	1
 could have been	1
 could have had a better experience	1
@@ -87,9 +93,11 @@ could made it a better experience	1
 could not focus	1
 did not appreciate this	1
 did not have a lot of opportunities	1
+did not have the opportunity	1
 did not learn as much as i could have	1
 did not learn how their pharmacy works	1
 did not want to cause any tension	1
+didn't feel like i spent much time	1
 didn't get my schedule	1
 didn't have the time	1
 didn't have time	1
@@ -130,6 +138,8 @@ i feel that i could have learned more if there were	1
 i found it harder to	1
 i just wish there was more	1
 i was given busy work	1
+i was not able	1
+i was not learning	1
 i was not updated on	1
 i wish i could've had more of	1
 i wish i had	1
@@ -144,6 +154,7 @@ if they also gave the students more opportunities	1
 improve the experience	1
 incorporate more time for teaching	1
 interact with my preceptor more	1
+it can be difficult	1
 it could have opened me up to more	1
 it is really difficult to work	1
 it was difficult	1
@@ -152,7 +163,6 @@ it was not explicitly stated	1
 lack of dedicated space	1
 lack of opportunity	1
 lack of orientation	1
-lack of structure made this rotation not ideal	1
 lack of time	1
 lacking	1
 last minute changes	1
@@ -214,14 +224,17 @@ no opportunities	1
 no other pharmacist took the time to learn our names or even get to know us	1
 no training	1
 none of us received a lot of one on one teaching and mentoring	1
+nonstimulated	1
 not able to have as much interaction with patients	1
 not able to practice	1
 not able to see a single patient	1
 not allowed to explore	1
 not aware	1
+not communicated clear	1
 not enough time	1
 not had the opportunity	1
 not having enough time	1
+not ideal	1
 not many learning moments	1
 not satisfied	1
 not very helpful	1
@@ -253,6 +266,7 @@ sometimes was difficult	1
 sooner communication	1
 spent in silence	1
 spent those hours alone	1
+spent zero days	1
 spreading out	1
 staffing shortages	1
 stayed up all night	1
@@ -286,6 +300,7 @@ was little feedback	1
 was not very consistent	1
 wasn't able to	1
 wasn't abundantly clear	1
+wish i would have	1
 wish it had been	1
 without a break	1
 without explaining	1
@@ -319,6 +334,13 @@ hard to follow sometimes	0.8
 hard to tell	0.8
 it would be advantageous	0.8
 lull	0.8
+steep learning curve	0.8
+would appreciate if	0.4
+would appreciate it if	0.4
+would have also appreciated	0.4
+would have appreciated	0.4
+would have preferred	0.4
+would prefer	0.4
 a better learning experience if it related more to pharmacy	0
 a little rushed	0
 absence of more frequent feedback	0
@@ -401,6 +423,7 @@ it would have been helpful to	0
 it would have been nice to have an orientation	0
 it would help a lot	0
 l was confused	0
+lack of structure made this rotation not ideal	0
 little value to my overall learning	0
 may have been	0
 miscommunication and schedule changes	0
@@ -477,8 +500,6 @@ wish my experience would have been better	0
 wish that this rotation would have focused more on pharmacy	0
 would be having more	0
 would have allowed this to be a better learning experience	0
-would have also appreciated	0
-would have appreciated	0
 would have appreciated more guidance	0
 would have appreciated more specific feedback	0
 would have been a better experience	0
@@ -512,7 +533,6 @@ would have made this	0
 would have made this a better experience	0
 would have made this a better learning experience	0
 would have made this experience more rewarding	0
-would have preferred	0
 would have provided more opportunities	0
 would have to work additional hours	0
 would improve the experience	0
