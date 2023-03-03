@@ -4,6 +4,7 @@ awesome	1.25
 best	1.25
 blown away	1.25
 cannot thank my preceptors enough	1.25
+could have not asked for a better experience	1.25
 deserves a preceptor award	1.25
 did everything in their power to make this experience a good one	1.25
 exceeded all expectations	1.25
@@ -436,7 +437,6 @@ step out of their comfort zone	1
 strategic guidance	1
 strength	1
 strengthened	1
-strengths	1
 stronger in my pharmacotherapy knowledge	1
 structured	1
 success	1
@@ -1248,6 +1248,7 @@ staff were friendly and knowledgeable	0
 strength of	0
 strength of the rotation	0
 strength of this rotation is	0
+strengths	0
 strengths of this experience include	0
 strong relationships	0
 strong understanding	0
