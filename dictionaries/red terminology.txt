@@ -43,8 +43,10 @@ students are useless	1.25
 unprofessional	1.25
 unsafe	1.25
 waste of time	1.25
+we were ignored	1.25
 bad experiences definitely outweighed the good	1.1
 detrimental to learning	1.1
+difficult to work with preceptors	1.1
 disrespectful	1.1
 do not openly offer to teach	1.1
 everything would be dumped on me	1.1
@@ -59,18 +61,25 @@ i felt that i was in the way	1.1
 i felt useless	1.1
 i had so many responsibilities that i could barely handle	1.1
 large portion of my time was spent shadowing	1.1
+little feedback for the student	1.1
+little to no guidance	1.1
 made very few efforts to communicate	1.1
 may be stressful not having a routine or schedule	1.1
 more cultural and racial awareness	1.1
+no other pharmacist took the time to learn our names or even get to know us	1.1
+not welcomed	1.1
 overall negative	1.1
 overwhelming	1.1
+purely negative feedback	1.1
+rarely gave me feedback	1.1
 so absent	1.1
 some just pretended you were not there	1.1
 speaking badly about	1.1
 taken advantage of	1.1
 technicians had issues with teaching me	1.1
 too independent	1.1
-we were ignored	1.1
+unavailable	1.1
+was little feedback	1.1
 without much instruction or accountability	1.1
 a pain	1
 apathetic	1
@@ -84,12 +93,6 @@ confused	1
 confusing	1
 confusion	1
 consistent problem	1
-could be beneficial	1
-could be spent doing some other learning opportunities	1
-could have been	1
-could have had a better experience	1
-could have made this	1
-could made it a better experience	1
 could not focus	1
 did not appreciate this	1
 did not have a lot of opportunities	1
@@ -103,7 +106,6 @@ didn't have the time	1
 didn't have time	1
 didn't necessarily enjoy their experiences	1
 difficult to manage	1
-difficult to work with preceptors	1
 dirty	1
 disappointing	1
 disappointment	1
@@ -134,28 +136,17 @@ i am unsure if my performance reflected expected growth	1
 i didn't have very many opportunities to	1
 i didn't really feel like i learned much about pharmacy	1
 i didn't speak with any pharmacists	1
-i feel that i could have learned more if there were	1
 i found it harder to	1
-i just wish there was more	1
 i was given busy work	1
 i was not able	1
 i was not learning	1
 i was not updated on	1
-i wish i could've had more of	1
-i wish i had	1
 i would be kicked out	1
-i would be more confident	1
 i would be sitting alone	1
-i would like to	1
 if every pharmacist i was shadowing was expecting me not all pharmacists knew i was with them despite email reminders from my preceptor	1
-if i could have	1
-if i were able to	1
-if they also gave the students more opportunities	1
-improve the experience	1
 incorporate more time for teaching	1
 interact with my preceptor more	1
 it can be difficult	1
-it could have opened me up to more	1
 it is really difficult to work	1
 it was difficult	1
 it was hard to do the things you normally do	1
@@ -173,8 +164,6 @@ less organized	1
 let down	1
 limited	1
 little difficult	1
-little feedback for the student	1
-little to no guidance	1
 little to no inpatient experience	1
 little to no room for life outside of immersion	1
 little value	1
@@ -194,7 +183,6 @@ more check ins	1
 more clear direction	1
 more clear expectations	1
 more clearly defined expectation	1
-more comfortable	1
 more communication and guidance	1
 more depth	1
 more direction and follow-through	1
@@ -221,7 +209,6 @@ never had a chance to consult patients	1
 no consistency	1
 no effort	1
 no opportunities	1
-no other pharmacist took the time to learn our names or even get to know us	1
 no training	1
 none of us received a lot of one on one teaching and mentoring	1
 nonstimulated	1
@@ -239,7 +226,6 @@ not many learning moments	1
 not satisfied	1
 not very helpful	1
 not very personable	1
-not welcomed	1
 often late	1
 often times difficult	1
 one of the challenges i faced at this rotation was	1
@@ -252,15 +238,12 @@ preceptor was very busy	1
 pretty draining	1
 progress on each activity felt slow	1
 provide better direction	1
-purely negative feedback	1
-rarely gave me feedback	1
 repetitive	1
 room for improvement	1
 rushed	1
 schedule change	1
 should have been	1
 sitting for hours	1
-slightly self conscious	1
 some shadowing experiences were difficult	1
 sometimes was difficult	1
 sooner communication	1
@@ -277,7 +260,6 @@ take away from the learning	1
 talk more face to face	1
 tend to get really slow	1
 they did not follow through	1
-this rotation was complex	1
 this was unfortunate	1
 too busy	1
 too many responsibilities	1
@@ -285,7 +267,6 @@ too many students	1
 tough work-life balance	1
 tried to make you do their work for them	1
 unable to be of any specific help	1
-unavailable	1
 unaware	1
 unclear expectation	1
 uncomfortable	1
@@ -296,45 +277,65 @@ very hectic for me	1
 wait around	1
 was hardly at the pharmacy at all	1
 was just running around doing everything	1
-was little feedback	1
 was not very consistent	1
 wasn't able to	1
 wasn't abundantly clear	1
-wish i would have	1
-wish it had been	1
 without a break	1
 without explaining	1
 worked as unpaid pharmacy technicians	1
-would also be really helpful	1
-would be beneficial	1
-would be having	1
-would be more opportunities	1
-would be really beneficial	1
-would be to	1
-would have	1
-would help	1
-would learn patients more and better understand	1
-would make this experience better	1
-would of been a better experience if	1
-would of been a lot better if	1
-would probably have	1
-would usually not be able to	1
-would've been a better experience for me	1
-would've loved to	1
-you could consider	1
 bit annoying	0.8
 bit of a disconnect	0.8
 could also be a good learning addition	0.8
+could be beneficial	0.8
 could be cool to	0.8
+could be spent doing some other learning opportunities	0.8
+could have been	0.8
+could have had a better experience	0.8
+could have made this	0.8
+could made it a better experience	0.8
 difficult to gauge improvements/progression	0.8
+do not feel like	0.8
 expect to get a little more	0.8
 few more opportunities to provide patient medication counseling	0.8
 further instructions	0.8
 hard to follow sometimes	0.8
 hard to tell	0.8
+i feel that i could have learned more if there were	0.8
+i just wish there was more	0.8
+i wish i could've had more of	0.8
+i wish i had	0.8
+i would be more confident	0.8
+if i could have	0.8
+if i were able to	0.8
+if they also gave the students more opportunities	0.8
+improve the experience	0.8
+it could have opened me up to more	0.8
 it would be advantageous	0.8
 lull	0.8
+more comfortable	0.8
+slightly self conscious	0.8
 steep learning curve	0.8
+wish i would have	0.8
+wish it had been	0.8
+would also be really helpful	0.8
+would be beneficial	0.8
+would be having	0.8
+would be more opportunities	0.8
+would be really beneficial	0.8
+would be to	0.8
+would have	0.8
+would help	0.8
+would learn patients more and better understand	0.8
+would make this experience better	0.8
+would of been a better experience if	0.8
+would of been a lot better if	0.8
+would probably have	0.8
+would usually not be able to	0.8
+would've been a better experience for me	0.8
+would've loved to	0.8
+you could consider	0.8
+exploited and used as free labor	0.4
+feel like we were used	0.4
 would appreciate if	0.4
 would appreciate it if	0.4
 would have also appreciated	0.4
@@ -374,7 +375,6 @@ distribution of work was extremely poor	0
 do more	0
 dread to	0
 earlier	0
-exploited and used as free labor	0
 feel uncomfortable	0
 felt incredibly unsafe	0
 felt it was disrespectful	0
@@ -405,6 +405,7 @@ i would have enjoyed	0
 i would have liked	0
 i would have loved	0
 i would have loved to have	0
+i would like to	0
 i would like to learn more about	0
 i'm not sure what	0
 implied	0
@@ -473,6 +474,7 @@ that would have helped	0
 there should have been some opportunity	0
 there were some times where i felt as though	0
 things just felt rushed	0
+this rotation was complex	0
 this rotation was disappointing	0
 unaware of some of my general expectations	0
 unfortunately we didn't have the time to	0
